@@ -24,7 +24,7 @@ struct ContentView: View {
                         .font(.title)
                         .fontWeight(.bold)
                         .padding(6.0)
-                    Button("Avengers: Age of Ultron"){
+                    Button("Avengers: Age of Ultron!"){
                         response = "🤖"
                     }
                     .padding(10.0)
